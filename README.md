@@ -5,17 +5,14 @@ A modern, responsive corporate website designed for **MAAT Marketing & Communica
 ## 🌐 Live Demo
 
 👉 **View the project here:**
-https://your-live-demo-link.com
+https://[your-live-demo-link.com](https://pixelbysoroush.github.io/restaurant/index.html)
 
 ---
 
 ## 📸 Preview
 
-> Add a screenshot inside the `assets/picture/` folder.
 
-```markdown
-![Homepage Preview](assets/picture/homepage.png)
-```
+![Homepage Preview](assets/img/screenshot/homepage.png)
 
 ---
 
