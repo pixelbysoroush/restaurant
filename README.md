@@ -58,25 +58,6 @@ https://[(https://pixelbysoroush.github.io/restaurant/index.html)]
 ```
 
 ---
-
-## 🚀 Getting Started
-
-Clone the repository:
-
-```bash
-git clone https://github.com/PixelBySoroush/maat.git
-```
-
-Navigate to the project folder:
-
-```bash
-cd maat
-```
-
-Open `index.html` in your browser or run the project using **Live Server**.
-
----
-
 ## 🎯 Project Goals
 
 This project was developed to practice modern front-end development techniques by building a responsive corporate website with reusable components, interactive animations, and a clean, scalable layout.
